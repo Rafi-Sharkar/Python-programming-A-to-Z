@@ -10,3 +10,8 @@ myDict = {
 myDict['Marks'] = [45, 78]
 print(myDict['Marks'])
 print(myDict['anotherdict']['harry'])
+
+x="hasan"
+
+
+
